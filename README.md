@@ -1,6 +1,6 @@
 # Design Challenge 20201215
 
-## Apresentaão em vídeo:
+## Apresentação em vídeo:
 
 ## Arquivos do Figma:
 - Protótipo mobile: https://www.figma.com/proto/Dw24v6vRvE9OWCm2HUwBnU/Teste-Coodesh---Cibely-Souza?node-id=13-3159&node-type=frame&t=ZCPgNoFA7TAF5fpp-0&scaling=scale-down&content-scaling=fixed&page-id=13%3A2176&starting-point-node-id=16%3A3826
